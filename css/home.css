@@ -1,0 +1,51 @@
+.button-primary,
+.home-contact-link-wrapper.featured,
+.underline .home-contact-link,
+.home-about-image,
+.services-slider-left-arrow:hover,
+.services-slider-right-arrow:hover,
+.home-perks-image,
+.bg.testimonials,
+.card-contact-form,
+.bg.about-hero,
+.image-story-left,
+.image-story-right {
+  background-color: #d6a76c !important;
+  border-color: #d6a76c !important;
+}
+.home-perks-wrapper .home-perks {
+  width: 500px !important;
+}
+img {
+  object-fit: cover !important;
+}
+.w-webflow-badge,
+.w-webflow-badge {
+  opacity: 0 !important;
+  display: none !important;
+}
+.bg-primary-1 {
+  background-color: black;
+}
+.card.service {
+  border-color: #d6a76c !important;
+}
+.subtitle,
+.title,
+.card-home-perks-testimonial-location {
+  color: #d6a76c !important;
+}
+.button-secondary.white-button:hover,
+.button-secondary:hover {
+  background-color: #d6a76c !important;
+  border-color: #d6a76c !important;
+}
+.input:focus,
+.text-area:hover,
+.text-accent-primary-1 {
+  color: #d6a76c !important;
+  border-color: #d6a76c !important;
+}
+.home-contact-link-featured {
+  color: white !important;
+}

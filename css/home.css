@@ -49,3 +49,15 @@ img {
 .home-contact-link-featured {
   color: white !important;
 }
+
+.team-wrapper {
+  display: flex !important;
+  flex-direction: column !important;
+}
+.team-wrapper .team
+{
+  flex-grow: 1 !important;
+}
+.team-wrapper .team img{
+  height: 100%;
+}

@@ -19,11 +19,6 @@
 img {
   object-fit: cover !important;
 }
-.w-webflow-badge,
-.w-webflow-badge {
-  opacity: 0 !important;
-  display: none !important;
-}
 .bg-primary-1 {
   background-color: black;
 }
